@@ -1,0 +1,63 @@
+/* Image Style */
+.img-decorative {
+    /* the image will fill in 10% of the container it is in */
+    width: 100%;
+    /* Does not exceed the arbitrary limit of 800px */
+    max-width: 800px;
+}
+/* Menu Style */
+nav a{
+    color: lightcoral;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+/* other tabs */
+.unfinished-tabs {
+    text-decoration: line-through;
+}
+
+nav a:hover {
+    color:blueviolet;
+}
+main{
+    padding: 20px;
+}
+
+body {
+    background-color: lightblue;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: lightcyan;
+
+}
+h1 {
+    color:black;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+}
+h2 {
+    color:black;
+    text-align:center;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+}
+section {
+    color:black;
+}
+p {
+    font-size: 30px;
+}
+.Menus {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    margin: 310px;
+}
